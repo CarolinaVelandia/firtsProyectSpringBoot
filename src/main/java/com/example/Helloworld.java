@@ -9,7 +9,7 @@ public class Helloworld {
 
     @GetMapping("/hello")
     public String diHola (){
-        return "hello ";
+        return "i love you";
     }
 }
 
